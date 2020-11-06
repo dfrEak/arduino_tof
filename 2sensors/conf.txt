@@ -1,0 +1,39 @@
+door conf 18/2/2019
+
+//default 5
+const int pdLag=20;
+//window size
+const int pdWindowSize=10;
+//default 3.5
+const float pdThreshold=6;
+//default 0.5
+const float pdInfluence=0.5; 
+
+
+
+
+hallway 60height
+
+
+/////Setting
+//default 5
+const int pdLag=10;
+//window size
+const int pdWindowSize=10;
+//default 3.5
+const float pdThreshold=8;
+//default 0.5
+const float pdInfluence=0.7; can be increased again
+
+
+
+good setting (simulation)
+/////Setting
+//default 5
+const int pdLag=5;
+//window size
+const int pdWindowSize=10;
+//default 3.5
+const float pdThreshold=5;
+//default 0.5
+const float pdInfluence=0.7; can be increased again
